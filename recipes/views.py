@@ -8,7 +8,7 @@ def home(request):
     return render (request, 'home.html')
 
 def sobre(request):
-    return HttpResponse ('sobre')
+    return render (request,'arquivo.html')
 
 def contato(request):
     return HttpResponse ('contato')
