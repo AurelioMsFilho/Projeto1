@@ -1,8 +1,0 @@
-3.1415926535
-8979323846
-2643383279
-Para testar esses exemplos por conta própria, você pode inserir essas
-linhas em um editor e salvar o arquivo como pi_digits.txt, ou pode fazer o
-download do arquivo a partir da página de recursos do livro em
-https://www.nostarch.com/pythoncrashcourse/. Salve o arquivo no mesmo
-diretório em que você armazenará os programas deste capítulo.
